@@ -1,0 +1,17 @@
+Tools
+-VS Code
+-Xampp
+-Microsoft Edge
+-Windows
+-Github
+
+Framework
+-Laravel 10.14.1 - PHP 8.2.4
+-Bootstrap 5.3
+
+Library
+-DomPDF
+
+Feature Test
+-php artisan test --filter=AdminTest
+-php artisan test --filter=OperatorTest
